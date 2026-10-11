@@ -1,0 +1,16 @@
+{
+    "schema": 1,
+    "author": "wildspick63",
+    "presets": [
+        {
+            "id": "sanity",
+            "name": "sanity",
+            "description": "",
+            "version": "1.0.0",
+            "configVersion": 29,
+            "path": "presets/sanity",
+            "wallpaper": "presets/sanity/wallpaper.jpg",
+            "banner": "presets/sanity/banner.png"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "name": "sanity",
+    "author": "wildspick63",
+    "description": "",
+    "version": "1.0.0",
+    "configVersion": 29,
+    "config": "config.json",
+    "screenshots": [],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-11",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.jpg",
+    "banner": "banner.png"
+}
