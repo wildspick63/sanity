@@ -3,11 +3,16 @@
     "name": "sanity",
     "author": "wildspick63",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "configVersion": 29,
     "config": "config.json",
     "screenshots": [],
     "changelog": [
+        {
+            "version": "1.0.1",
+            "date": "2026-10-11",
+            "notes": "major"
+        },
         {
             "version": "1.0.0",
             "date": "2026-10-11",

@@ -4,7 +4,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 
 ## Available Presets
 
-- **sanity** (`sanity`, v1.0.0)
+- **sanity** (`sanity`, v1.0.1)
 
 ## How to Install
 

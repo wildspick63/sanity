@@ -6,7 +6,7 @@
             "id": "sanity",
             "name": "sanity",
             "description": "",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "configVersion": 29,
             "path": "presets/sanity",
             "wallpaper": "presets/sanity/wallpaper.jpg",

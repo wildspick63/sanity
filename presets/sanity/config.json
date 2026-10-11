@@ -82,7 +82,7 @@
                     "tertiary": ""
                 }
             },
-            "type": "material_ocean"
+            "type": "ayu"
         },
         "roundingValue": 12,
         "scrollAnimations": false,
@@ -217,19 +217,48 @@
                 "y": 474.93467771780195
             },
             {
-                "id": "widget_media_android_1791705701911",
+                "id": "widget_ext:end4-pC-visualiser_1791706160892",
                 "lockBehavior": "lockOnly",
                 "lockPositions": {
                     "eDP-1": {
-                        "scale": 0.9,
-                        "x": 714,
-                        "y": 776.2061686359461
+                        "scale": 1.5,
+                        "x": 0,
+                        "y": 840
                     }
                 },
                 "placementStrategy": "free",
+                "widgetId": "ext:end4-pC-visualiser",
+                "x": 280,
+                "y": 280
+            },
+            {
+                "id": "widget_ext:end4-pC-visualiser_1791706199419",
+                "lockBehavior": "hide",
+                "placementStrategy": "free",
+                "widgetId": "ext:end4-pC-visualiser",
+                "x": 360,
+                "y": 360
+            },
+            {
+                "id": "widget_media_android_1791706266200",
+                "lockBehavior": "custom",
+                "lockPositions": {
+                    "eDP-1": {
+                        "scale": 0.75,
+                        "x": 714,
+                        "y": 798.7462432740359
+                    }
+                },
+                "placementStrategy": "free",
+                "positions": {
+                    "eDP-1": {
+                        "x": 695.6328125,
+                        "y": 785.6395784438873
+                    }
+                },
                 "widgetId": "media_android",
-                "x": 200,
-                "y": 200
+                "x": 695.6328125,
+                "y": 785.6395784438873
             }
         ],
         "animateWallpaperChanges": true,
@@ -335,7 +364,7 @@
         "wallpaperAnimation": "",
         "wallpaperEngineAssetsPath": "",
         "wallpaperEngineId": "",
-        "wallpaperPath": "$HOME/Pictures/Wallpapers/wallhaven-x866ko.jpg",
+        "wallpaperPath": "$HOME/.config/illogical-impulse/presets/sanity.jpg",
         "widgets": {
             "ai_chat": {
                 "enable": false,
@@ -1757,7 +1786,7 @@
                 {
                     "centered": false,
                     "id": "music_player",
-                    "visible": false
+                    "visible": true
                 }
             ],
             "right": [
@@ -3417,7 +3446,7 @@
             "textFadeIn": true,
             "thinkingDefault": ""
         },
-        "bannerImage": "$HOME/.config/illogical-impulse/presets/peace_banner.png",
+        "bannerImage": "$HOME/.config/illogical-impulse/presets/sanity_banner.png",
         "booru": {
             "allowNsfw": false,
             "defaultProvider": "yandere",
